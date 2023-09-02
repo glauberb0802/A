@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Cuphead Hadoken.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BurstFX instance 10000" x="10" y="10" width="761" height="710" frameX="-336" frameY="-312" frameWidth="1493" frameHeight="1370"/>
+	<SubTexture name="BurstFX instance 10001" x="10" y="10" width="761" height="710" frameX="-336" frameY="-312" frameWidth="1493" frameHeight="1370"/>
+	<SubTexture name="BurstFX instance 10002" x="781" y="10" width="890" height="817" frameX="-269" frameY="-252" frameWidth="1493" frameHeight="1370"/>
+	<SubTexture name="BurstFX instance 10003" x="781" y="10" width="890" height="817" frameX="-269" frameY="-252" frameWidth="1493" frameHeight="1370"/>
+	<SubTexture name="BurstFX instance 10004" x="1681" y="10" width="1032" height="957" frameX="-204" frameY="-188" frameWidth="1493" frameHeight="1370"/>
+	<SubTexture name="BurstFX instance 10005" x="1681" y="10" width="1032" height="957" frameX="-204" frameY="-188" frameWidth="1493" frameHeight="1370"/>
+	<SubTexture name="BurstFX instance 10006" x="10" y="1271" width="1469" height="1306" frameX="-24" frameY="-41" frameWidth="1493" frameHeight="1370"/>
+	<SubTexture name="BurstFX instance 10007" x="10" y="1271" width="1469" height="1306" frameX="-24" frameY="-41" frameWidth="1493" frameHeight="1370"/>
+	<SubTexture name="BurstFX instance 10008" x="1489" y="1271" width="1458" height="1306" frameX="0" frameY="-33" frameWidth="1493" frameHeight="1370"/>
+	<SubTexture name="BurstFX instance 10009" x="1489" y="1271" width="1458" height="1306" frameX="0" frameY="-33" frameWidth="1493" frameHeight="1370"/>
+	<SubTexture name="Hadolen instance 10000" x="10" y="2651" width="1111" height="459" frameX="-0" frameY="-22" frameWidth="1238" frameHeight="550"/>
+	<SubTexture name="Hadolen instance 10001" x="10" y="2651" width="1111" height="459" frameX="-212" frameY="-24" frameWidth="1238" frameHeight="550"/>
+    <SubTexture name="Hadolen instance 10002" x="10" y="2651" width="1111" height="459" frameX="-119" frameY="-30" frameWidth="1238" frameHeight="550"/>
+	<SubTexture name="Hadolen instance 10003" x="1131" y="2651" width="1140" height="480" frameX="-98" frameY="-24" frameWidth="1238" frameHeight="550"/>
+	<SubTexture name="Hadolen instance 10004" x="1131" y="2651" width="1140" height="480" frameX="-177" frameY="0" frameWidth="1238" frameHeight="550"/>
+	<SubTexture name="Hadolen instance 10005" x="1131" y="2651" width="1140" height="480" frameX="-162" frameY="-24" frameWidth="1238" frameHeight="550"/>
+	<SubTexture name="Hadolen instance 10006" x="2281" y="2651" width="1042" height="515" frameX="-183" frameY="-43" frameWidth="1238" frameHeight="550"/>
+	<SubTexture name="Hadolen instance 10007" x="2281" y="2651" width="1042" height="515" frameX="-187" frameY="-40" frameWidth="1238" frameHeight="550"/>
+</TextureAtlas>
