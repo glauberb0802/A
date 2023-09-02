@@ -1,0 +1,8 @@
+Value 1:
+
+True - Makes the 3rd Strumline appear.
+False - Hides the 3rd Strumline.
+
+When the strumline is hidden, plr3 notes will appear 
+on the strumline of player/opponent 
+(depends where you've placed the notes).
