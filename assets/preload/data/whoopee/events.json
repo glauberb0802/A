@@ -1,0 +1,49 @@
+{
+	"song": {
+		"speed": 2.9,
+		"stage": "SansStage",
+		"player1": "BF_Sans_IC",
+		"player2": "Sans_Phase2_IC",
+		"player3": null,
+		"events": [
+			[
+				2823.52941176471,
+				[
+					[
+						"Set Cam Zoom",
+						"1.2",
+						"7"
+					]
+				]
+			],
+			[
+				14345.0589538141,
+				[
+					[
+						"Play Animation",
+						"Snap",
+						"dad"
+					]
+				]
+			],
+			[
+				15059.3446680998,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						"1"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 170,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Whoopee"
+	}
+}
