@@ -1,0 +1,176 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="goose.png">
+	
+	
+	<SubTexture name="Goose Down0000" x="2" y="2" width="320" height="240" />
+	<SubTexture name="Goose Down0001" x="2" y="2" width="320" height="240" />
+	<SubTexture name="Goose Down0002" x="324" y="2" width="260" height="209" frameX="-3" frameY="-8" frameWidth="320" frameHeight="240" />
+	<SubTexture name="Goose Down0003" x="324" y="2" width="260" height="209" frameX="-3" frameY="-8" frameWidth="320" frameHeight="240" />
+	<SubTexture name="Goose Down0004" x="324" y="2" width="260" height="209" frameX="-3" frameY="-8" frameWidth="320" frameHeight="240" />
+	<SubTexture name="Goose Down0005" x="324" y="2" width="260" height="209" frameX="-3" frameY="-8" frameWidth="320" frameHeight="240" />
+	<SubTexture name="Goose Down0006" x="324" y="2" width="260" height="209" frameX="-3" frameY="-8" frameWidth="320" frameHeight="240" />
+	<SubTexture name="Goose Down0007" x="324" y="2" width="260" height="209" frameX="-3" frameY="-8" frameWidth="320" frameHeight="240" />
+	<SubTexture name="Goose Down0008" x="324" y="2" width="260" height="209" frameX="-3" frameY="-8" frameWidth="320" frameHeight="240" />
+	<SubTexture name="Goose Down0009" x="324" y="2" width="260" height="209" frameX="-3" frameY="-8" frameWidth="320" frameHeight="240" />
+	<SubTexture name="Goose Down0010" x="324" y="2" width="260" height="209" frameX="-3" frameY="-8" frameWidth="320" frameHeight="240" />
+	<SubTexture name="Goose Down0011" x="324" y="2" width="260" height="209" frameX="-3" frameY="-8" frameWidth="320" frameHeight="240" />
+	<SubTexture name="Goose Down0012" x="324" y="2" width="260" height="209" frameX="-3" frameY="-8" frameWidth="320" frameHeight="240" />
+	<SubTexture name="Goose Down0013" x="324" y="2" width="260" height="209" frameX="-3" frameY="-8" frameWidth="320" frameHeight="240" />
+	<SubTexture name="Gose Down Dank0000" x="587" y="2" width="320" height="240" />
+	<SubTexture name="Gose Down Dank0001" x="587" y="2" width="320" height="240" />
+	<SubTexture name="Gose Down Dank0002" x="909" y="2" width="260" height="209" frameX="-3" frameY="-8" frameWidth="320" frameHeight="240" />
+	<SubTexture name="Gose Down Dank0003" x="909" y="2" width="260" height="209" frameX="-3" frameY="-8" frameWidth="320" frameHeight="240" />
+	<SubTexture name="Gose Down Dank0004" x="909" y="2" width="260" height="209" frameX="-3" frameY="-8" frameWidth="320" frameHeight="240" />
+	<SubTexture name="Gose Down Dank0005" x="909" y="2" width="260" height="209" frameX="-3" frameY="-8" frameWidth="320" frameHeight="240" />
+	<SubTexture name="Gose Down Dank0006" x="909" y="2" width="260" height="209" frameX="-3" frameY="-8" frameWidth="320" frameHeight="240" />
+	<SubTexture name="Gose Down Dank0007" x="909" y="2" width="260" height="209" frameX="-3" frameY="-8" frameWidth="320" frameHeight="240" />
+	<SubTexture name="Gose Down Dank0008" x="909" y="2" width="260" height="209" frameX="-3" frameY="-8" frameWidth="320" frameHeight="240" />
+	<SubTexture name="Gose Down Dank0009" x="909" y="2" width="260" height="209" frameX="-3" frameY="-8" frameWidth="320" frameHeight="240" />
+	<SubTexture name="Gose Down Dank0010" x="909" y="2" width="260" height="209" frameX="-3" frameY="-8" frameWidth="320" frameHeight="240" />
+	<SubTexture name="Gose Down Dank0011" x="909" y="2" width="260" height="209" frameX="-3" frameY="-8" frameWidth="320" frameHeight="240" />
+	<SubTexture name="Gose Down Dank0012" x="909" y="2" width="260" height="209" frameX="-3" frameY="-8" frameWidth="320" frameHeight="240" />
+	<SubTexture name="Gose Down Dank0013" x="909" y="2" width="260" height="209" frameX="-3" frameY="-8" frameWidth="320" frameHeight="240" />
+	<SubTexture name="Goose Idle0000" x="1172" y="2" width="187" height="216" frameX="0" frameY="-18" frameWidth="187" frameHeight="235" />
+	<SubTexture name="Goose Idle0001" x="1172" y="2" width="187" height="216" frameX="0" frameY="-18" frameWidth="187" frameHeight="235" />
+	<SubTexture name="Goose Idle0002" x="1361" y="2" width="182" height="223" frameX="-1" frameY="-12" frameWidth="187" frameHeight="235" />
+	<SubTexture name="Goose Idle0003" x="1361" y="2" width="182" height="223" frameX="-1" frameY="-12" frameWidth="187" frameHeight="235" />
+	<SubTexture name="Goose Idle0004" x="1546" y="2" width="176" height="235" frameX="-2" frameY="0" frameWidth="187" frameHeight="235" />
+	<SubTexture name="Goose Idle0005" x="1546" y="2" width="176" height="235" frameX="-2" frameY="0" frameWidth="187" frameHeight="235" />
+	<SubTexture name="Goose Idle0006" x="1724" y="2" width="178" height="235" frameX="-2" frameY="0" frameWidth="187" frameHeight="235" />
+	<SubTexture name="Goose Idle0007" x="1724" y="2" width="178" height="235" frameX="-2" frameY="0" frameWidth="187" frameHeight="235" />
+	<SubTexture name="Goose Idle0008" x="1724" y="2" width="178" height="235" frameX="-2" frameY="0" frameWidth="187" frameHeight="235" />
+	<SubTexture name="Goose Idle0009" x="1724" y="2" width="178" height="235" frameX="-2" frameY="0" frameWidth="187" frameHeight="235" />
+	<SubTexture name="Goose Idle0010" x="1724" y="2" width="178" height="235" frameX="-2" frameY="0" frameWidth="187" frameHeight="235" />
+	<SubTexture name="Goose Idle0011" x="1724" y="2" width="178" height="235" frameX="-2" frameY="0" frameWidth="187" frameHeight="235" />
+	<SubTexture name="Goose Idle0012" x="1724" y="2" width="178" height="235" frameX="-2" frameY="0" frameWidth="187" frameHeight="235" />
+	<SubTexture name="Goose Idle0013" x="1724" y="2" width="178" height="235" frameX="-2" frameY="0" frameWidth="187" frameHeight="235" />
+	<SubTexture name="Gose Idle Dank0000" x="2" y="244" width="193" height="216" frameX="0" frameY="-18" frameWidth="193" frameHeight="235" />
+	<SubTexture name="Gose Idle Dank0001" x="2" y="244" width="193" height="216" frameX="0" frameY="-18" frameWidth="193" frameHeight="235" />
+	<SubTexture name="Gose Idle Dank0002" x="197" y="244" width="187" height="223" frameX="-1" frameY="-12" frameWidth="193" frameHeight="235" />
+	<SubTexture name="Gose Idle Dank0003" x="197" y="244" width="187" height="223" frameX="-1" frameY="-12" frameWidth="193" frameHeight="235" />
+	<SubTexture name="Gose Idle Dank0004" x="387" y="244" width="180" height="235" frameX="-2" frameY="0" frameWidth="193" frameHeight="235" />
+	<SubTexture name="Gose Idle Dank0005" x="387" y="244" width="180" height="235" frameX="-2" frameY="0" frameWidth="193" frameHeight="235" />
+	<SubTexture name="Gose Idle Dank0006" x="569" y="244" width="182" height="235" frameX="-2" frameY="0" frameWidth="193" frameHeight="235" />
+	<SubTexture name="Gose Idle Dank0007" x="569" y="244" width="182" height="235" frameX="-2" frameY="0" frameWidth="193" frameHeight="235" />
+	<SubTexture name="Gose Idle Dank0008" x="569" y="244" width="182" height="235" frameX="-2" frameY="0" frameWidth="193" frameHeight="235" />
+	<SubTexture name="Gose Idle Dank0009" x="569" y="244" width="182" height="235" frameX="-2" frameY="0" frameWidth="193" frameHeight="235" />
+	<SubTexture name="Gose Idle Dank0010" x="569" y="244" width="182" height="235" frameX="-2" frameY="0" frameWidth="193" frameHeight="235" />
+	<SubTexture name="Gose Idle Dank0011" x="569" y="244" width="182" height="235" frameX="-2" frameY="0" frameWidth="193" frameHeight="235" />
+	<SubTexture name="Gose Idle Dank0012" x="569" y="244" width="182" height="235" frameX="-2" frameY="0" frameWidth="193" frameHeight="235" />
+	<SubTexture name="Gose Idle Dank0013" x="569" y="244" width="182" height="235" frameX="-2" frameY="0" frameWidth="193" frameHeight="235" />
+	<SubTexture name="Goose Left0000" x="753" y="244" width="256" height="259" frameX="0" frameY="0" frameWidth="261" frameHeight="259" />
+	<SubTexture name="Goose Left0001" x="753" y="244" width="256" height="259" frameX="0" frameY="0" frameWidth="261" frameHeight="259" />
+	<SubTexture name="Goose Left0002" x="1011" y="244" width="260" height="245" frameX="-2" frameY="-14" frameWidth="261" frameHeight="259" />
+	<SubTexture name="Goose Left0003" x="1011" y="244" width="260" height="245" frameX="-2" frameY="-14" frameWidth="261" frameHeight="259" />
+	<SubTexture name="Goose Left0004" x="1011" y="244" width="260" height="245" frameX="-2" frameY="-14" frameWidth="261" frameHeight="259" />
+	<SubTexture name="Goose Left0005" x="1011" y="244" width="260" height="245" frameX="-2" frameY="-14" frameWidth="261" frameHeight="259" />
+	<SubTexture name="Goose Left0006" x="1011" y="244" width="260" height="245" frameX="-2" frameY="-14" frameWidth="261" frameHeight="259" />
+	<SubTexture name="Goose Left0007" x="1011" y="244" width="260" height="245" frameX="-2" frameY="-14" frameWidth="261" frameHeight="259" />
+	<SubTexture name="Goose Left0008" x="1011" y="244" width="260" height="245" frameX="-2" frameY="-14" frameWidth="261" frameHeight="259" />
+	<SubTexture name="Goose Left0009" x="1011" y="244" width="260" height="245" frameX="-2" frameY="-14" frameWidth="261" frameHeight="259" />
+	<SubTexture name="Goose Left0010" x="1011" y="244" width="260" height="245" frameX="-2" frameY="-14" frameWidth="261" frameHeight="259" />
+	<SubTexture name="Goose Left0011" x="1011" y="244" width="260" height="245" frameX="-2" frameY="-14" frameWidth="261" frameHeight="259" />
+	<SubTexture name="Goose Left0012" x="1011" y="244" width="260" height="245" frameX="-2" frameY="-14" frameWidth="261" frameHeight="259" />
+	<SubTexture name="Goose Left0013" x="1011" y="244" width="260" height="245" frameX="-2" frameY="-14" frameWidth="261" frameHeight="259" />
+	<SubTexture name="Gose Left Dank0000" x="1273" y="244" width="256" height="259" frameX="0" frameY="0" frameWidth="261" frameHeight="259" />
+	<SubTexture name="Gose Left Dank0001" x="1273" y="244" width="256" height="259" frameX="0" frameY="0" frameWidth="261" frameHeight="259" />
+	<SubTexture name="Gose Left Dank0002" x="1531" y="244" width="260" height="245" frameX="-2" frameY="-14" frameWidth="261" frameHeight="259" />
+	<SubTexture name="Gose Left Dank0003" x="1531" y="244" width="260" height="245" frameX="-2" frameY="-14" frameWidth="261" frameHeight="259" />
+	<SubTexture name="Gose Left Dank0004" x="1531" y="244" width="260" height="245" frameX="-2" frameY="-14" frameWidth="261" frameHeight="259" />
+	<SubTexture name="Gose Left Dank0005" x="1531" y="244" width="260" height="245" frameX="-2" frameY="-14" frameWidth="261" frameHeight="259" />
+	<SubTexture name="Gose Left Dank0006" x="1531" y="244" width="260" height="245" frameX="-2" frameY="-14" frameWidth="261" frameHeight="259" />
+	<SubTexture name="Gose Left Dank0007" x="1531" y="244" width="260" height="245" frameX="-2" frameY="-14" frameWidth="261" frameHeight="259" />
+	<SubTexture name="Gose Left Dank0008" x="1531" y="244" width="260" height="245" frameX="-2" frameY="-14" frameWidth="261" frameHeight="259" />
+	<SubTexture name="Gose Left Dank0009" x="1531" y="244" width="260" height="245" frameX="-2" frameY="-14" frameWidth="261" frameHeight="259" />
+	<SubTexture name="Gose Left Dank0010" x="1531" y="244" width="260" height="245" frameX="-2" frameY="-14" frameWidth="261" frameHeight="259" />
+	<SubTexture name="Gose Left Dank0011" x="1531" y="244" width="260" height="245" frameX="-2" frameY="-14" frameWidth="261" frameHeight="259" />
+	<SubTexture name="Gose Left Dank0012" x="1531" y="244" width="260" height="245" frameX="-2" frameY="-14" frameWidth="261" frameHeight="259" />
+	<SubTexture name="Gose Left Dank0013" x="1531" y="244" width="260" height="245" frameX="-2" frameY="-14" frameWidth="261" frameHeight="259" />
+	<SubTexture name="Goose MLG Anim0000" x="1724" y="2" width="178" height="235" frameX="0" frameY="-81" frameWidth="187" frameHeight="235" />
+	<SubTexture name="Goose MLG Anim0001" x="1724" y="2" width="178" height="235" frameX="0" frameY="-81" frameWidth="187" frameHeight="235" />
+	<SubTexture name="Goose MLG Anim0002" x="1793" y="244" width="162" height="235" frameX="-5" frameY="-81" frameWidth="182" frameHeight="316" />
+	<SubTexture name="Goose MLG Anim0003" x="1793" y="244" width="162" height="235" frameX="-5" frameY="-81" frameWidth="182" frameHeight="316" />
+	<SubTexture name="Goose MLG Anim0004" x="2" y="505" width="151" height="235" frameX="-13" frameY="-81" frameWidth="182" frameHeight="316" />
+	<SubTexture name="Goose MLG Anim0005" x="2" y="505" width="151" height="235" frameX="-13" frameY="-81" frameWidth="182" frameHeight="316" />
+	<SubTexture name="Goose MLG Anim0006" x="155" y="505" width="150" height="316" frameX="-12" frameY="0" frameWidth="182" frameHeight="316" />
+	<SubTexture name="Goose MLG Anim0007" x="307" y="505" width="150" height="310" frameX="-12" frameY="-6" frameWidth="182" frameHeight="316" />
+	<SubTexture name="Goose MLG Anim0008" x="460" y="505" width="150" height="305" frameX="-12" frameY="-11" frameWidth="182" frameHeight="316" />
+	<SubTexture name="Goose MLG Anim0009" x="612" y="505" width="150" height="300" frameX="-12" frameY="-16" frameWidth="182" frameHeight="316" />
+	<SubTexture name="Goose MLG Anim0010" x="765" y="505" width="150" height="295" frameX="-12" frameY="-21" frameWidth="182" frameHeight="316" />
+	<SubTexture name="Goose MLG Anim0011" x="917" y="505" width="150" height="290" frameX="-12" frameY="-26" frameWidth="182" frameHeight="316" />
+	<SubTexture name="Goose MLG Anim0012" x="1070" y="505" width="150" height="285" frameX="-12" frameY="-31" frameWidth="182" frameHeight="316" />
+	<SubTexture name="Goose MLG Anim0013" x="1222" y="505" width="150" height="279" frameX="-12" frameY="-37" frameWidth="182" frameHeight="316" />
+	<SubTexture name="Goose MLG Anim0014" x="1375" y="505" width="150" height="274" frameX="-12" frameY="-42" frameWidth="182" frameHeight="316" />
+	<SubTexture name="Goose MLG Anim0015" x="1527" y="505" width="150" height="269" frameX="-12" frameY="-47" frameWidth="182" frameHeight="316" />
+	<SubTexture name="Goose MLG Anim0016" x="1680" y="505" width="150" height="264" frameX="-12" frameY="-52" frameWidth="182" frameHeight="316" />
+	<SubTexture name="Goose MLG Anim0017" x="1832" y="505" width="150" height="259" frameX="-12" frameY="-57" frameWidth="182" frameHeight="316" />
+	<SubTexture name="Goose MLG Anim0018" x="2" y="823" width="150" height="254" frameX="-12" frameY="-62" frameWidth="182" frameHeight="316" />
+	<SubTexture name="Goose MLG Anim0019" x="154" y="823" width="150" height="248" frameX="-12" frameY="-68" frameWidth="182" frameHeight="316" />
+	<SubTexture name="Goose MLG Anim0020" x="307" y="823" width="150" height="243" frameX="-12" frameY="-73" frameWidth="182" frameHeight="316" />
+	<SubTexture name="Goose MLG Anim0021" x="459" y="823" width="150" height="238" frameX="-12" frameY="-78" frameWidth="182" frameHeight="316" />
+	<SubTexture name="Goose MLG Anim0022" x="612" y="823" width="150" height="235" frameX="-12" frameY="-81" frameWidth="182" frameHeight="316" />
+	<SubTexture name="Goose MLG Anim0023" x="764" y="823" width="150" height="235" frameX="-12" frameY="-81" frameWidth="182" frameHeight="316" />
+	<SubTexture name="Goose MLG Anim0024" x="917" y="823" width="150" height="235" frameX="-12" frameY="-81" frameWidth="182" frameHeight="316" />
+	<SubTexture name="Goose MLG Anim0025" x="917" y="823" width="150" height="235" frameX="-12" frameY="-81" frameWidth="182" frameHeight="316" />
+	<SubTexture name="Goose MLG Anim0026" x="917" y="823" width="150" height="235" frameX="-12" frameY="-81" frameWidth="182" frameHeight="316" />
+	<SubTexture name="Goose MLG Anim0027" x="1069" y="823" width="175" height="235" frameX="-5" frameY="-81" frameWidth="182" frameHeight="316" />
+	<SubTexture name="Goose MLG Anim0028" x="1069" y="823" width="175" height="235" frameX="-5" frameY="-81" frameWidth="182" frameHeight="316" />
+	<SubTexture name="Goose MLG Anim0029" x="1246" y="823" width="182" height="235" frameX="0" frameY="-81" frameWidth="182" frameHeight="316" />
+	<SubTexture name="Goose MLG Anim0030" x="1246" y="823" width="182" height="235" frameX="0" frameY="-81" frameWidth="182" frameHeight="316" />
+	<SubTexture name="Goose Right0000" x="1430" y="823" width="297" height="226" frameX="-19" frameY="0" frameWidth="316" frameHeight="231" />
+	<SubTexture name="Goose Right0001" x="1430" y="823" width="297" height="226" frameX="-19" frameY="0" frameWidth="316" frameHeight="231" />
+	<SubTexture name="Goose Right0002" x="1730" y="823" width="256" height="218" frameX="0" frameY="-13" frameWidth="316" frameHeight="231" />
+	<SubTexture name="Goose Right0003" x="1730" y="823" width="256" height="218" frameX="0" frameY="-13" frameWidth="316" frameHeight="231" />
+	<SubTexture name="Goose Right0004" x="1730" y="823" width="256" height="218" frameX="0" frameY="-13" frameWidth="316" frameHeight="231" />
+	<SubTexture name="Goose Right0005" x="1730" y="823" width="256" height="218" frameX="0" frameY="-13" frameWidth="316" frameHeight="231" />
+	<SubTexture name="Goose Right0006" x="1730" y="823" width="256" height="218" frameX="0" frameY="-13" frameWidth="316" frameHeight="231" />
+	<SubTexture name="Goose Right0007" x="1730" y="823" width="256" height="218" frameX="0" frameY="-13" frameWidth="316" frameHeight="231" />
+	<SubTexture name="Goose Right0008" x="1730" y="823" width="256" height="218" frameX="0" frameY="-13" frameWidth="316" frameHeight="231" />
+	<SubTexture name="Goose Right0009" x="1730" y="823" width="256" height="218" frameX="0" frameY="-13" frameWidth="316" frameHeight="231" />
+	<SubTexture name="Goose Right0010" x="1730" y="823" width="256" height="218" frameX="0" frameY="-13" frameWidth="316" frameHeight="231" />
+	<SubTexture name="Goose Right0011" x="1730" y="823" width="256" height="218" frameX="0" frameY="-13" frameWidth="316" frameHeight="231" />
+	<SubTexture name="Goose Right0012" x="1730" y="823" width="256" height="218" frameX="0" frameY="-13" frameWidth="316" frameHeight="231" />
+	<SubTexture name="Goose Right0013" x="1730" y="823" width="256" height="218" frameX="0" frameY="-13" frameWidth="316" frameHeight="231" />
+	<SubTexture name="Gose Right Dank0000" x="2" y="1079" width="297" height="226" frameX="-19" frameY="0" frameWidth="316" frameHeight="231" />
+	<SubTexture name="Gose Right Dank0001" x="2" y="1079" width="297" height="226" frameX="-19" frameY="0" frameWidth="316" frameHeight="231" />
+	<SubTexture name="Gose Right Dank0002" x="301" y="1079" width="256" height="218" frameX="0" frameY="-13" frameWidth="316" frameHeight="231" />
+	<SubTexture name="Gose Right Dank0003" x="301" y="1079" width="256" height="218" frameX="0" frameY="-13" frameWidth="316" frameHeight="231" />
+	<SubTexture name="Gose Right Dank0004" x="301" y="1079" width="256" height="218" frameX="0" frameY="-13" frameWidth="316" frameHeight="231" />
+	<SubTexture name="Gose Right Dank0005" x="301" y="1079" width="256" height="218" frameX="0" frameY="-13" frameWidth="316" frameHeight="231" />
+	<SubTexture name="Gose Right Dank0006" x="301" y="1079" width="256" height="218" frameX="0" frameY="-13" frameWidth="316" frameHeight="231" />
+	<SubTexture name="Gose Right Dank0007" x="301" y="1079" width="256" height="218" frameX="0" frameY="-13" frameWidth="316" frameHeight="231" />
+	<SubTexture name="Gose Right Dank0008" x="301" y="1079" width="256" height="218" frameX="0" frameY="-13" frameWidth="316" frameHeight="231" />
+	<SubTexture name="Gose Right Dank0009" x="301" y="1079" width="256" height="218" frameX="0" frameY="-13" frameWidth="316" frameHeight="231" />
+	<SubTexture name="Gose Right Dank0010" x="301" y="1079" width="256" height="218" frameX="0" frameY="-13" frameWidth="316" frameHeight="231" />
+	<SubTexture name="Gose Right Dank0011" x="301" y="1079" width="256" height="218" frameX="0" frameY="-13" frameWidth="316" frameHeight="231" />
+	<SubTexture name="Gose Right Dank0012" x="301" y="1079" width="256" height="218" frameX="0" frameY="-13" frameWidth="316" frameHeight="231" />
+	<SubTexture name="Gose Right Dank0013" x="301" y="1079" width="256" height="218" frameX="0" frameY="-13" frameWidth="316" frameHeight="231" />
+	<SubTexture name="Goose Up0000" x="559" y="1079" width="216" height="319" frameX="-8" frameY="0" frameWidth="225" frameHeight="319" />
+	<SubTexture name="Goose Up0001" x="559" y="1079" width="216" height="319" frameX="-8" frameY="0" frameWidth="225" frameHeight="319" />
+	<SubTexture name="Goose Up0002" x="778" y="1079" width="225" height="271" frameX="0" frameY="-48" frameWidth="225" frameHeight="319" />
+	<SubTexture name="Goose Up0003" x="778" y="1079" width="225" height="271" frameX="0" frameY="-48" frameWidth="225" frameHeight="319" />
+	<SubTexture name="Goose Up0004" x="778" y="1079" width="225" height="271" frameX="0" frameY="-48" frameWidth="225" frameHeight="319" />
+	<SubTexture name="Goose Up0005" x="778" y="1079" width="225" height="271" frameX="0" frameY="-48" frameWidth="225" frameHeight="319" />
+	<SubTexture name="Goose Up0006" x="778" y="1079" width="225" height="271" frameX="0" frameY="-48" frameWidth="225" frameHeight="319" />
+	<SubTexture name="Goose Up0007" x="778" y="1079" width="225" height="271" frameX="0" frameY="-48" frameWidth="225" frameHeight="319" />
+	<SubTexture name="Goose Up0008" x="778" y="1079" width="225" height="271" frameX="0" frameY="-48" frameWidth="225" frameHeight="319" />
+	<SubTexture name="Goose Up0009" x="778" y="1079" width="225" height="271" frameX="0" frameY="-48" frameWidth="225" frameHeight="319" />
+	<SubTexture name="Goose Up0010" x="778" y="1079" width="225" height="271" frameX="0" frameY="-48" frameWidth="225" frameHeight="319" />
+	<SubTexture name="Goose Up0011" x="778" y="1079" width="225" height="271" frameX="0" frameY="-48" frameWidth="225" frameHeight="319" />
+	<SubTexture name="Goose Up0012" x="778" y="1079" width="225" height="271" frameX="0" frameY="-48" frameWidth="225" frameHeight="319" />
+	<SubTexture name="Goose Up0013" x="778" y="1079" width="225" height="271" frameX="0" frameY="-48" frameWidth="225" frameHeight="319" />
+	<SubTexture name="Gose Up Dank0000" x="1005" y="1079" width="216" height="319" frameX="-8" frameY="0" frameWidth="225" frameHeight="319" />
+	<SubTexture name="Gose Up Dank0001" x="1005" y="1079" width="216" height="319" frameX="-8" frameY="0" frameWidth="225" frameHeight="319" />
+	<SubTexture name="Gose Up Dank0002" x="1223" y="1079" width="225" height="271" frameX="0" frameY="-48" frameWidth="225" frameHeight="319" />
+	<SubTexture name="Gose Up Dank0003" x="1223" y="1079" width="225" height="271" frameX="0" frameY="-48" frameWidth="225" frameHeight="319" />
+	<SubTexture name="Gose Up Dank0004" x="1223" y="1079" width="225" height="271" frameX="0" frameY="-48" frameWidth="225" frameHeight="319" />
+	<SubTexture name="Gose Up Dank0005" x="1223" y="1079" width="225" height="271" frameX="0" frameY="-48" frameWidth="225" frameHeight="319" />
+	<SubTexture name="Gose Up Dank0006" x="1223" y="1079" width="225" height="271" frameX="0" frameY="-48" frameWidth="225" frameHeight="319" />
+	<SubTexture name="Gose Up Dank0007" x="1223" y="1079" width="225" height="271" frameX="0" frameY="-48" frameWidth="225" frameHeight="319" />
+	<SubTexture name="Gose Up Dank0008" x="1223" y="1079" width="225" height="271" frameX="0" frameY="-48" frameWidth="225" frameHeight="319" />
+	<SubTexture name="Gose Up Dank0009" x="1223" y="1079" width="225" height="271" frameX="0" frameY="-48" frameWidth="225" frameHeight="319" />
+	<SubTexture name="Gose Up Dank0010" x="1223" y="1079" width="225" height="271" frameX="0" frameY="-48" frameWidth="225" frameHeight="319" />
+	<SubTexture name="Gose Up Dank0011" x="1223" y="1079" width="225" height="271" frameX="0" frameY="-48" frameWidth="225" frameHeight="319" />
+	<SubTexture name="Gose Up Dank0012" x="1223" y="1079" width="225" height="271" frameX="0" frameY="-48" frameWidth="225" frameHeight="319" />
+	<SubTexture name="Gose Up Dank0013" x="1223" y="1079" width="225" height="271" frameX="0" frameY="-48" frameWidth="225" frameHeight="319" />
+</TextureAtlas>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Devil.png"><SubTexture name="Down instance 0000" x="811" y="1143" width="823" height="897" frameX="0" frameY="-102" frameWidth="829" frameHeight="1003" />
+<SubTexture name="Down instance 0001" x="0" y="1143" width="811" height="915" frameX="-7" frameY="-85" frameWidth="829" frameHeight="1003" />
+<SubTexture name="Idle instance 0000" x="1855" y="0" width="797" height="985" frameX="-1" frameY="-11" frameWidth="809" frameHeight="997" />
+<SubTexture name="Left instance 0000" x="0" y="2058" width="1443" height="751" frameX="0" frameY="-120" frameWidth="1444" frameHeight="872" />
+<SubTexture name="Left instance 0001" x="2652" y="0" width="1411" height="766" frameX="-18" frameY="-106" frameWidth="1444" frameHeight="872" />
+<SubTexture name="Right instance 0000" x="2652" y="766" width="1116" height="708" frameX="0" frameY="0" frameWidth="1116" frameHeight="709" />
+<SubTexture name="Right instance 0001" x="1443" y="2058" width="1102" height="685" frameX="-2" frameY="-23" frameWidth="1116" frameHeight="709" />
+<SubTexture name="Up instance 0000" x="0" y="0" width="916" height="1143" frameX="-12" frameY="0" frameWidth="943" frameHeight="1143" />
+<SubTexture name="Up instance 0001" x="916" y="0" width="939" height="1129" frameX="0" frameY="-14" frameWidth="943" frameHeight="1143" />
+</TextureAtlas>

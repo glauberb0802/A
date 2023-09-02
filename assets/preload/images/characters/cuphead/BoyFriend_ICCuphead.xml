@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Bf_Cuphead_1.png">
+<SubTexture name="0BF attack instance 10000" x="0" y="1315" width="751" height="399" frameX="-764" frameY="-1" frameWidth="1551" frameHeight="400" />
+<SubTexture name="0BF attack instance 10001" x="0" y="1714" width="384" height="372" frameX="-1136" frameY="-24" frameWidth="1551" frameHeight="400" />
+<SubTexture name="0BF attack instance 10002" x="0" y="1714" width="384" height="372" frameX="-1136" frameY="-24" frameWidth="1551" frameHeight="400" />
+<SubTexture name="BF NOTE DOWN MISS instance 10000" x="1588" y="804" width="378" height="388" frameX="0" frameY="-4" frameWidth="378" frameHeight="393" />
+<SubTexture name="BF NOTE DOWN instance 10000" x="384" y="1714" width="391" height="345" frameX="0" frameY="-26" frameWidth="391" frameHeight="374" />
+<SubTexture name="BF NOTE DOWN instance 10001" x="1969" y="373" width="371" height="361" frameX="-7" frameY="-12" frameWidth="391" frameHeight="374" />
+<SubTexture name="BF NOTE DOWN instance 10002" x="1969" y="0" width="375" height="373" frameX="-3" frameY="0" frameWidth="391" frameHeight="374" />
+<SubTexture name="BF NOTE LEFT MISS instance 10000" x="395" y="471" width="369" height="430" frameX="-2" frameY="0" frameWidth="371" frameHeight="431" />
+<SubTexture name="BF NOTE LEFT instance 10000" x="751" y="1315" width="442" height="389" frameX="0" frameY="-15" frameWidth="442" frameHeight="407" />
+<SubTexture name="BF NOTE LEFT instance 10001" x="814" y="904" width="387" height="406" frameX="-34" frameY="0" frameWidth="442" frameHeight="407" />
+<SubTexture name="BF NOTE LEFT instance 10002" x="1201" y="904" width="380" height="406" frameX="-59" frameY="0" frameWidth="442" frameHeight="407" />
+<SubTexture name="BF NOTE RIGHT MISS instance 10000" x="0" y="471" width="395" height="433" frameX="0" frameY="0" frameWidth="401" frameHeight="433" />
+<SubTexture name="BF NOTE RIGHT instance 10000" x="1193" y="1315" width="460" height="389" frameX="-17" frameY="-20" frameWidth="477" frameHeight="412" />
+<SubTexture name="BF NOTE RIGHT instance 10001" x="0" y="904" width="407" height="411" frameX="-28" frameY="0" frameWidth="477" frameHeight="412" />
+<SubTexture name="BF NOTE RIGHT instance 10002" x="1194" y="418" width="393" height="407" frameX="0" frameY="-4" frameWidth="477" frameHeight="412" />
+<SubTexture name="BF NOTE UP MISS instance 10000" x="764" y="471" width="360" height="426" frameX="0" frameY="-3" frameWidth="360" frameHeight="430" />
+<SubTexture name="BF NOTE UP instance 10000" x="0" y="0" width="355" height="471" frameX="-18" frameY="0" frameWidth="394" frameHeight="471" />
+<SubTexture name="BF NOTE UP instance 10001" x="822" y="0" width="372" height="440" frameX="-10" frameY="-26" frameWidth="394" frameHeight="471" />
+<SubTexture name="BF NOTE UP instance 10002" x="1194" y="0" width="394" height="418" frameX="0" frameY="-48" frameWidth="394" frameHeight="471" />
+<SubTexture name="BF hit instance 10000" x="355" y="0" width="467" height="468" frameX="-29" frameY="-29" frameWidth="561" frameHeight="547" />
+<SubTexture name="BF idle dance instance 10000" x="407" y="904" width="407" height="409" frameX="-17" frameY="0" frameWidth="437" frameHeight="409" />
+<SubTexture name="boyfriend dodge instance 10000" x="1588" y="0" width="381" height="402" frameX="0" frameY="-2" frameWidth="381" frameHeight="406" />
+<SubTexture name="boyfriend dodge instance 10001" x="1588" y="402" width="380" height="402" frameX="0" frameY="-2" frameWidth="381" frameHeight="406" />
+</TextureAtlas>

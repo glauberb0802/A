@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Nightmare_Cuphead.png">
+<SubTexture name="Down  instance 10000" x="389" y="970" width="445" height="410" frameX="-4" frameY="-81" frameWidth="458" frameHeight="501" />
+<SubTexture name="Down  instance 10001" x="0" y="970" width="389" height="419" frameX="-26" frameY="-42" frameWidth="458" frameHeight="501" />
+<SubTexture name="Down  instance 10002" x="1205" y="444" width="389" height="433" frameX="-26" frameY="-28" frameWidth="458" frameHeight="501" />
+<SubTexture name="Idle instance 10000" x="0" y="0" width="324" height="504" frameX="-1" frameY="-25" frameWidth="336" frameHeight="533" />
+<SubTexture name="Left instance 10000" x="0" y="1389" width="477" height="380" frameX="-4" frameY="-66" frameWidth="493" frameHeight="455" />
+<SubTexture name="Left instance 10001" x="834" y="970" width="405" height="409" frameX="-45" frameY="-38" frameWidth="493" frameHeight="455" />
+<SubTexture name="Left instance 10002" x="1597" y="0" width="400" height="406" frameX="-50" frameY="-41" frameWidth="493" frameHeight="455" />
+<SubTexture name="Right instance 10000" x="712" y="0" width="493" height="475" frameX="-58" frameY="-12" frameWidth="584" frameHeight="496" />
+<SubTexture name="Right instance 10001" x="450" y="504" width="450" height="454" frameX="-53" frameY="-34" frameWidth="584" frameHeight="496" />
+<SubTexture name="Right instance 10002" x="0" y="504" width="450" height="466" frameX="-53" frameY="-22" frameWidth="584" frameHeight="496" />
+<SubTexture name="Up instance 10000" x="324" y="0" width="388" height="481" frameX="-31" frameY="-114" frameWidth="423" frameHeight="622" />
+<SubTexture name="Up instance 10001" x="1205" y="0" width="392" height="444" frameX="-27" frameY="-151" frameWidth="423" frameHeight="622" />
+</TextureAtlas>

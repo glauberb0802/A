@@ -1,0 +1,253 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Bendy remastered.png">
+	
+	
+	<SubTexture name="B-Right instance 10000" x="784" y="547" width="311" height="209" frameX="-6" frameY="-56" frameWidth="317" frameHeight="267" />
+	
+	
+	<SubTexture name="B-Right instance 10001" x="784" y="756" width="307" height="214" frameX="-5" frameY="-51" frameWidth="317" frameHeight="267" />
+	<SubTexture name="B-Right instance 10002" x="784" y="756" width="307" height="214" frameX="-5" frameY="-51" frameWidth="317" frameHeight="267" />
+	<SubTexture name="B-Right instance 10003" x="784" y="756" width="307" height="214" frameX="-5" frameY="-51" frameWidth="317" frameHeight="267" />
+	<SubTexture name="B-Right instance 10004" x="784" y="756" width="307" height="214" frameX="-5" frameY="-51" frameWidth="317" frameHeight="267" />
+	<SubTexture name="B-Right instance 10005" x="784" y="756" width="307" height="214" frameX="-5" frameY="-51" frameWidth="317" frameHeight="267" />
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<SubTexture name="Bendy Idle instance 10000" x="505" y="0" width="210" height="267" frameX="0" frameY="-6" frameWidth="211" frameHeight="273" />
+	<SubTexture name="Bendy Idle instance 10001" x="505" y="0" width="210" height="267" frameX="0" frameY="-6" frameWidth="211" frameHeight="273" />
+	
+	
+	<SubTexture name="Bendy Idle instance 10002" x="209" y="273" width="208" height="271" frameX="-2" frameY="-2" frameWidth="211" frameHeight="273" />
+	<SubTexture name="Bendy Idle instance 10003" x="209" y="273" width="208" height="271" frameX="-2" frameY="-2" frameWidth="211" frameHeight="273" />
+	
+	
+	<SubTexture name="Bendy Idle instance 10004" x="418" y="273" width="208" height="273" frameX="-2" frameY="-1" frameWidth="211" frameHeight="273" />
+	<SubTexture name="Bendy Idle instance 10005" x="418" y="273" width="208" height="273" frameX="-2" frameY="-1" frameWidth="211" frameHeight="273" />
+	
+	
+	<SubTexture name="Bendy Idle instance 10006" x="626" y="273" width="208" height="273" frameX="-2" frameY="-1" frameWidth="211" frameHeight="273" />
+	<SubTexture name="Bendy Idle instance 10007" x="626" y="273" width="208" height="273" frameX="-2" frameY="-1" frameWidth="211" frameHeight="273" />
+	<SubTexture name="Bendy Idle instance 10008" x="626" y="273" width="208" height="273" frameX="-2" frameY="-1" frameWidth="211" frameHeight="273" />
+	
+	
+	
+	<SubTexture name="Bendy Idle instance 10009" x="835" y="273" width="208" height="273" frameX="-2" frameY="0" frameWidth="211" frameHeight="273" />
+	<SubTexture name="Bendy Idle instance 10010" x="835" y="273" width="208" height="273" frameX="-2" frameY="0" frameWidth="211" frameHeight="273" />
+	<SubTexture name="Bendy Idle instance 10011" x="835" y="273" width="208" height="273" frameX="-2" frameY="0" frameWidth="211" frameHeight="273" />
+	
+	
+	
+	<SubTexture name="Bendy Idle instance 10012" x="716" y="0" width="208" height="273" frameX="-2" frameY="0" frameWidth="211" frameHeight="273" />
+	<SubTexture name="Bendy Idle instance 10013" x="716" y="0" width="208" height="273" frameX="-2" frameY="0" frameWidth="211" frameHeight="273" />
+	<SubTexture name="Bendy Idle instance 10014" x="716" y="0" width="208" height="273" frameX="-2" frameY="0" frameWidth="211" frameHeight="273" />
+	<SubTexture name="Bendy Idle instance 10015" x="716" y="0" width="208" height="273" frameX="-2" frameY="0" frameWidth="211" frameHeight="273" />
+	<SubTexture name="Bendy Idle instance 10016" x="716" y="0" width="208" height="273" frameX="-2" frameY="0" frameWidth="211" frameHeight="273" />
+	<SubTexture name="Bendy Idle instance 10017" x="716" y="0" width="208" height="273" frameX="-2" frameY="0" frameWidth="211" frameHeight="273" />
+	
+	
+	<SubTexture name="Bendy Idle instance 10018" x="0" y="273" width="209" height="273" frameX="-2" frameY="0" frameWidth="211" frameHeight="273" />
+	<SubTexture name="Bendy Idle instance 10019" x="0" y="273" width="209" height="273" frameX="-2" frameY="0" frameWidth="211" frameHeight="273" />
+	<SubTexture name="Bendy Idle instance 10020" x="0" y="273" width="209" height="273" frameX="-2" frameY="0" frameWidth="211" frameHeight="273" />
+	<SubTexture name="Bendy Idle instance 10021" x="0" y="273" width="209" height="273" frameX="-2" frameY="0" frameWidth="211" frameHeight="273" />
+	<SubTexture name="Bendy Idle instance 10022" x="0" y="273" width="209" height="273" frameX="-2" frameY="0" frameWidth="211" frameHeight="273" />
+	<SubTexture name="Bendy Idle instance 10023" x="0" y="273" width="209" height="273" frameX="-2" frameY="0" frameWidth="211" frameHeight="273" />
+	<SubTexture name="Bendy Idle instance 10024" x="0" y="273" width="209" height="273" frameX="-2" frameY="0" frameWidth="211" frameHeight="273" />
+	<SubTexture name="Bendy Idle instance 10025" x="0" y="273" width="209" height="273" frameX="-2" frameY="0" frameWidth="211" frameHeight="273" />
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<SubTexture name="Left instance 10000" x="209" y="546" width="290" height="272" frameX="0" frameY="-7" frameWidth="310" frameHeight="279" />
+	
+	
+	<SubTexture name="Left instance 10001" x="499" y="546" width="285" height="279" frameX="-8" frameY="0" frameWidth="310" frameHeight="279" />
+	<SubTexture name="Left instance 10002" x="499" y="546" width="285" height="279" frameX="-8" frameY="0" frameWidth="310" frameHeight="279" />
+	<SubTexture name="Left instance 10003" x="499" y="546" width="285" height="279" frameX="-8" frameY="0" frameWidth="310" frameHeight="279" />
+	<SubTexture name="Left instance 10004" x="499" y="546" width="285" height="279" frameX="-8" frameY="0" frameWidth="310" frameHeight="279" />
+	<SubTexture name="Left instance 10005" x="499" y="546" width="285" height="279" frameX="-8" frameY="0" frameWidth="310" frameHeight="279" />
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<SubTexture name="Scream instance 10000" x="0" y="547" width="209" height="274" frameX="-31" frameY="0" frameWidth="348" frameHeight="279" />
+	<SubTexture name="Scream instance 10001" x="0" y="547" width="209" height="274" frameX="-31" frameY="0" frameWidth="348" frameHeight="279" />
+	<SubTexture name="Scream instance 10002" x="0" y="547" width="209" height="274" frameX="-31" frameY="0" frameWidth="348" frameHeight="279" />
+	
+	
+	<SubTexture name="Scream instance 10003" x="924" y="0" width="219" height="272" frameX="-26" frameY="-2" frameWidth="348" frameHeight="279" />
+	<SubTexture name="Scream instance 10004" x="924" y="0" width="219" height="272" frameX="-26" frameY="-2" frameWidth="348" frameHeight="279" />
+	
+	
+	
+	<SubTexture name="Scream instance 10005" x="1043" y="272" width="267" height="263" frameX="0" frameY="-11" frameWidth="348" frameHeight="279" />
+	
+	
+	
+	
+	
+	<SubTexture name="Scream instance 10006" x="0" y="971" width="309" height="193" frameX="-39" frameY="-86" frameWidth="348" frameHeight="279" />
+	
+	
+	<SubTexture name="Scream instance 10007" x="309" y="971" width="295" height="198" frameX="-44" frameY="-82" frameWidth="348" frameHeight="279" />
+	
+	
+	<SubTexture name="Scream instance 10008" x="0" y="971" width="309" height="193" frameX="-39" frameY="-86" frameWidth="348" frameHeight="279" />
+	
+	
+	<SubTexture name="Scream instance 10009" x="309" y="971" width="295" height="198" frameX="-44" frameY="-82" frameWidth="348" frameHeight="279" />
+	
+	
+	<SubTexture name="Scream instance 10010" x="0" y="971" width="309" height="193" frameX="-38" frameY="-86" frameWidth="348" frameHeight="279" />
+	
+	
+	<SubTexture name="Scream instance 10011" x="309" y="971" width="295" height="198" frameX="-44" frameY="-82" frameWidth="348" frameHeight="279" />
+	
+	
+	<SubTexture name="Scream instance 10012" x="0" y="971" width="309" height="193" frameX="-38" frameY="-86" frameWidth="348" frameHeight="279" />
+	
+	
+	<SubTexture name="Scream instance 10013" x="309" y="971" width="295" height="198" frameX="-44" frameY="-82" frameWidth="348" frameHeight="279" />
+	
+	
+	<SubTexture name="Scream instance 10014" x="0" y="971" width="309" height="193" frameX="-38" frameY="-86" frameWidth="348" frameHeight="279" />
+	
+	
+	<SubTexture name="Scream instance 10015" x="309" y="971" width="295" height="198" frameX="-44" frameY="-82" frameWidth="348" frameHeight="279" />
+	
+	
+	<SubTexture name="Scream instance 10016" x="0" y="971" width="309" height="193" frameX="-38" frameY="-86" frameWidth="348" frameHeight="279" />
+	
+	
+	<SubTexture name="Scream instance 10017" x="309" y="971" width="295" height="198" frameX="-44" frameY="-82" frameWidth="348" frameHeight="279" />
+	
+	
+	<SubTexture name="Scream instance 10018" x="0" y="971" width="309" height="193" frameX="-38" frameY="-86" frameWidth="348" frameHeight="279" />
+	
+	
+	<SubTexture name="Scream instance 10019" x="309" y="971" width="295" height="198" frameX="-44" frameY="-82" frameWidth="348" frameHeight="279" />
+	
+	
+	<SubTexture name="Scream instance 10020" x="0" y="971" width="309" height="193" frameX="-38" frameY="-86" frameWidth="348" frameHeight="279" />
+	
+	
+	<SubTexture name="Scream instance 10021" x="309" y="971" width="295" height="198" frameX="-44" frameY="-82" frameWidth="348" frameHeight="279" />
+	
+	
+	<SubTexture name="Scream instance 10022" x="0" y="971" width="309" height="193" frameX="-38" frameY="-86" frameWidth="348" frameHeight="279" />
+	
+	
+	<SubTexture name="Scream instance 10023" x="309" y="971" width="295" height="198" frameX="-44" frameY="-82" frameWidth="348" frameHeight="279" />
+	
+	
+	<SubTexture name="Scream instance 10024" x="0" y="971" width="309" height="193" frameX="-38" frameY="-86" frameWidth="348" frameHeight="279" />
+	
+	
+	<SubTexture name="Scream instance 10025" x="309" y="971" width="295" height="198" frameX="-44" frameY="-82" frameWidth="348" frameHeight="279" />
+	
+	
+	<SubTexture name="Scream instance 10026" x="0" y="971" width="309" height="193" frameX="-38" frameY="-86" frameWidth="348" frameHeight="279" />
+	
+	
+	<SubTexture name="Scream instance 10027" x="309" y="971" width="295" height="198" frameX="-44" frameY="-82" frameWidth="348" frameHeight="279" />
+	
+	
+	<SubTexture name="Scream instance 10028" x="0" y="971" width="309" height="193" frameX="-38" frameY="-86" frameWidth="348" frameHeight="279" />
+	
+	
+	<SubTexture name="Scream instance 10029" x="309" y="971" width="295" height="198" frameX="-44" frameY="-82" frameWidth="348" frameHeight="279" />
+	
+	
+	<SubTexture name="Scream instance 10030" x="0" y="971" width="309" height="193" frameX="-38" frameY="-86" frameWidth="348" frameHeight="279" />
+	
+	
+	<SubTexture name="Scream instance 10031" x="309" y="971" width="295" height="198" frameX="-44" frameY="-82" frameWidth="348" frameHeight="279" />
+	
+	
+	<SubTexture name="Scream instance 10032" x="0" y="971" width="309" height="193" frameX="-38" frameY="-86" frameWidth="348" frameHeight="279" />
+	
+	
+	<SubTexture name="Scream instance 10033" x="309" y="971" width="295" height="198" frameX="-44" frameY="-82" frameWidth="348" frameHeight="279" />
+	
+	
+	<SubTexture name="Scream instance 10034" x="0" y="971" width="309" height="193" frameX="-38" frameY="-86" frameWidth="348" frameHeight="279" />
+	
+	
+	<SubTexture name="Scream instance 10035" x="309" y="971" width="295" height="198" frameX="-44" frameY="-82" frameWidth="348" frameHeight="279" />
+	
+	
+	<SubTexture name="Scream instance 10036" x="0" y="971" width="309" height="193" frameX="-38" frameY="-86" frameWidth="348" frameHeight="279" />
+	
+	
+	
+	
+	
+	
+	<SubTexture name="Scream instance 10037" x="1043" y="272" width="267" height="263" frameX="0" frameY="-11" frameWidth="348" frameHeight="279" />
+	
+	
+	<SubTexture name="Scream instance 10038" x="924" y="0" width="219" height="272" frameX="-26" frameY="-2" frameWidth="348" frameHeight="279" />
+	<SubTexture name="Scream instance 10039" x="924" y="0" width="219" height="272" frameX="-26" frameY="-2" frameWidth="348" frameHeight="279" />
+	
+	
+	<SubTexture name="Scream instance 10040" x="0" y="547" width="209" height="272" frameX="-31" frameY="0" frameWidth="348" frameHeight="279" />
+	<SubTexture name="Scream instance 10041" x="0" y="547" width="209" height="274" frameX="-31" frameY="0" frameWidth="348" frameHeight="279" />
+	<SubTexture name="Scream instance 10042" x="0" y="547" width="209" height="274" frameX="-31" frameY="0" frameWidth="348" frameHeight="279" />
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<SubTexture name="Up instance 10000" x="604" y="971" width="250" height="326" frameX="-10" frameY="0" frameWidth="290" frameHeight="327" />
+	
+	
+	<SubTexture name="Up instance 10001" x="854" y="971" width="260" height="321" frameX="-5" frameY="-6" frameWidth="290" frameHeight="327" />
+	<SubTexture name="Up instance 10002" x="854" y="971" width="260" height="321" frameX="-5" frameY="-6" frameWidth="290" frameHeight="327" />
+	<SubTexture name="Up instance 10003" x="854" y="971" width="260" height="321" frameX="-5" frameY="-6" frameWidth="290" frameHeight="327" />
+	<SubTexture name="Up instance 10004" x="854" y="971" width="260" height="321" frameX="-5" frameY="-6" frameWidth="290" frameHeight="327" />
+	<SubTexture name="Up instance 10005" x="854" y="971" width="260" height="321" frameX="-5" frameY="-6" frameWidth="290" frameHeight="327" />
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<SubTexture name="bendydown instance 10000" x="0" y="0" width="256" height="155" frameX="0" frameY="-100" frameWidth="256" frameHeight="257" />
+	
+	
+	<SubTexture name="bendydown instance 10001" x="256" y="0" width="249" height="162" frameX="-3" frameY="-94" frameWidth="256" frameHeight="257" />
+	<SubTexture name="bendydown instance 10002" x="256" y="0" width="249" height="162" frameX="-3" frameY="-94" frameWidth="256" frameHeight="257" />
+	<SubTexture name="bendydown instance 10003" x="256" y="0" width="249" height="162" frameX="-3" frameY="-94" frameWidth="256" frameHeight="257" />
+	<SubTexture name="bendydown instance 10004" x="256" y="0" width="249" height="162" frameX="-3" frameY="-94" frameWidth="256" frameHeight="257" />
+	<SubTexture name="bendydown instance 10005" x="256" y="0" width="249" height="162" frameX="-3" frameY="-94" frameWidth="256" frameHeight="257" />
+	
+	
+	
+	
+	
+	
+</TextureAtlas>

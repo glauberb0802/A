@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BoyFriend_BendyShade.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->--Por Nickobelit
+	<SubTexture name="BF NOTE DOWN instance 10004" x="5" y="5" width="376" height="368" frameX="-6" frameY="-9" frameWidth="395" frameHeight="377"/>
+    <SubTexture name="BF NOTE LEFT instance 10003" x="835" y="424" width="378" height="407" frameX="-43" frameY="0" frameWidth="442" frameHeight="407"/>
+    <SubTexture name="BF NOTE RIGHT instance 10004" x="1611" y="582" width="400" height="410" frameX="-21" frameY="-2" frameWidth="477" frameHeight="412"/>
+	<SubTexture name="BF NOTE UP instance 10004" x="1611" y="1002" width="381" height="436" frameX="-6" frameY="-34" frameWidth="394" frameHeight="474"/>
+	<SubTexture name="BF idle dance instance 10013" x="1166" y="5" width="408" height="409" frameX="-17" frameY="0" frameWidth="437" frameHeight="409"/>
+    <SubTexture name="BFA NOTE DOWN  instance 10004" x="391" y="5" width="377" height="369" frameX="-6" frameY="-9" frameWidth="395" frameHeight="377"/>
+	<SubTexture name="BFA NOTE LEFT  instance 10004" x="1223" y="424" width="378" height="406" frameX="-43" frameY="0" frameWidth="441" frameHeight="406"/>
+	<SubTexture name="BFA NOTE RIGHT  instance 10002" x="357" y="1002" width="410" height="411" frameX="-25" frameY="0" frameWidth="476" frameHeight="411"/>
+	<SubTexture name="BFA NOTE UP  instance 10003" x="357" y="1448" width="381" height="435" frameX="-6" frameY="-34" frameWidth="394" frameHeight="473"/>
+	<SubTexture name="BFA idle dance  instance 10013" x="5" y="424" width="405" height="410" frameX="-19" frameY="0" frameWidth="436" frameHeight="408"/>
+	<SubTexture name="BFS NOTE DOWN instance 10004" x="778" y="5" width="378" height="371" frameX="-6" frameY="-8" frameWidth="395" frameHeight="376"/>
+	<SubTexture name="BFS NOTE LEFT instance 10004" x="1223" y="840" width="378" height="408" frameX="-42" frameY="0" frameWidth="441" frameHeight="406"/>
+	<SubTexture name="BFS NOTE RIGHT instance 10002" x="777" y="1002" width="411" height="411" frameX="-25" frameY="0" frameWidth="476" frameHeight="411"/>
+    <SubTexture name="BFS NOTE UP instance 10004" x="748" y="1448" width="380" height="436" frameX="-6" frameY="-34" frameWidth="393" frameHeight="473"/>
+	<SubTexture name="BFS idle  instance 10013" x="420" y="424" width="405" height="409" frameX="-19" frameY="0" frameWidth="437" frameHeight="408"/>
+	<SubTexture name="Ouch instance 10000" x="5" y="1258" width="342" height="410" frameX="-27" frameY="-159" frameWidth="483" frameHeight="568"/>
+	<SubTexture name="Ouch instance 10001" x="5" y="1258" width="342" height="410" frameX="-27" frameY="-159" frameWidth="483" frameHeight="568"/>
+	<SubTexture name="Ouch instance 10002" x="5" y="1258" width="342" height="410" frameX="-27" frameY="-159" frameWidth="483" frameHeight="568"/>
+	<SubTexture name="Ouch instance 10003" x="1611" y="5" width="462" height="567" frameX="-29" frameY="-9" frameWidth="483" frameHeight="568"/>
+	<SubTexture name="Ouch instance 10004" x="1611" y="5" width="462" height="567" frameX="-29" frameY="-9" frameWidth="483" frameHeight="568"/>
+	<SubTexture name="Ouch instance 10005" x="1611" y="5" width="462" height="567" frameX="-29" frameY="-9" frameWidth="483" frameHeight="568"/>
+	<SubTexture name="Ouch instance 10006" x="1611" y="5" width="462" height="567" frameX="-29" frameY="-9" frameWidth="483" frameHeight="568"/>
+	<SubTexture name="Ouch instance 10007" x="1611" y="5" width="462" height="567" frameX="-29" frameY="-9" frameWidth="483" frameHeight="568"/>
+	<SubTexture name="Ouch instance 10008" x="1611" y="5" width="462" height="567" frameX="-29" frameY="-9" frameWidth="483" frameHeight="568"/>
+	<SubTexture name="Ouch instance 10009" x="1611" y="5" width="462" height="567" frameX="-29" frameY="-9" frameWidth="483" frameHeight="568"/>
+</TextureAtlas>

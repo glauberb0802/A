@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BF FINAL.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF NOTE DOWN copy instance 10002" x="548" y="10" width="252" height="246" frameX="-6" frameY="-8" frameWidth="266" frameHeight="254"/>
+	<SubTexture name="BF NOTE LEFT copy instance 10002" x="587" y="274" width="260" height="273" frameX="-23" frameY="0" frameWidth="297" frameHeight="273"/>
+	<SubTexture name="BF NOTE RIGHT copy instance 10002" x="294" y="557" width="275" height="277" frameX="-17" frameY="0" frameWidth="320" frameHeight="277"/>
+	<SubTexture name="BF NOTE UP copy instance 10002" x="10" y="885" width="251" height="298" frameX="-6" frameY="-17" frameWidth="265" frameHeight="318"/>
+	<SubTexture name="BF annoyed instance 10000" x="2554" y="1193" width="274" height="276" frameX="-8" frameY="-1" frameWidth="282" frameHeight="277"/>
+</TextureAtlas>

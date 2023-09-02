@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Sans_WF.png">
+	
+	
+	<SubTexture name="Down Tired instance 10000" x="5" y="5" width="242" height="235" frameX="0" frameY="-14" frameWidth="261" frameHeight="249" />
+	<SubTexture name="Down Tired instance 10001" x="252" y="5" width="234" height="244" frameX="-4" frameY="-5" frameWidth="261" frameHeight="249" />
+	<SubTexture name="Down Tired instance 10002" x="252" y="5" width="234" height="244" frameX="-4" frameY="-5" frameWidth="261" frameHeight="249" />
+	<SubTexture name="Down Tired instance 10003" x="491" y="5" width="233" height="248" frameX="-5" frameY="-1" frameWidth="261" frameHeight="249" />
+	<SubTexture name="Down Tired instance 10004" x="491" y="5" width="233" height="248" frameX="-5" frameY="-1" frameWidth="261" frameHeight="249" />
+	<SubTexture name="Down Tired instance 10005" x="729" y="5" width="231" height="249" frameX="-6" frameY="0" frameWidth="261" frameHeight="249" />
+	<SubTexture name="Down Tired instance 10006" x="729" y="5" width="231" height="249" frameX="-6" frameY="0" frameWidth="261" frameHeight="249" />
+	<SubTexture name="Down Tired instance 10007" x="966" y="5" width="259" height="249" frameX="-2" frameY="0" frameWidth="261" frameHeight="249" />
+	<SubTexture name="Down Tired instance 10008" x="966" y="5" width="259" height="249" frameX="-2" frameY="0" frameWidth="261" frameHeight="249" />
+	<SubTexture name="Left Tired instance 10000" x="1230" y="5" width="297" height="249" frameX="0" frameY="-8" frameWidth="297" frameHeight="256" />
+	<SubTexture name="Left Tired instance 10001" x="1532" y="5" width="275" height="256" frameX="-14" frameY="0" frameWidth="297" frameHeight="256" />
+	<SubTexture name="Left Tired instance 10002" x="1532" y="5" width="275" height="256" frameX="-14" frameY="0" frameWidth="297" frameHeight="256" />
+	<SubTexture name="Left Tired instance 10003" x="5" y="266" width="264" height="256" frameX="-20" frameY="0" frameWidth="297" frameHeight="256" />
+	<SubTexture name="Left Tired instance 10004" x="5" y="266" width="264" height="256" frameX="-20" frameY="0" frameWidth="297" frameHeight="256" />
+	<SubTexture name="Left Tired instance 10005" x="274" y="266" width="252" height="256" frameX="-28" frameY="0" frameWidth="297" frameHeight="256" />
+	<SubTexture name="Left Tired instance 10006" x="274" y="266" width="252" height="256" frameX="-28" frameY="0" frameWidth="297" frameHeight="256" />
+	<SubTexture name="Left Tired instance 10007" x="531" y="266" width="245" height="256" frameX="-31" frameY="0" frameWidth="297" frameHeight="256" />
+	<SubTexture name="Left Tired instance 10008" x="531" y="266" width="245" height="256" frameX="-31" frameY="0" frameWidth="297" frameHeight="256" />
+	<SubTexture name="Left Tired instance 10009" x="781" y="266" width="209" height="246" frameX="-30" frameY="-11" frameWidth="297" frameHeight="256" />
+	<SubTexture name="Left Tired instance 10010" x="781" y="266" width="209" height="246" frameX="-30" frameY="-11" frameWidth="297" frameHeight="256" />
+	<SubTexture name="Right Tired instance 10000" x="996" y="266" width="232" height="253" frameX="-11" frameY="-3" frameWidth="256" frameHeight="256" />
+	<SubTexture name="Right Tired instance 10001" x="1233" y="266" width="226" height="256" frameX="-6" frameY="0" frameWidth="256" frameHeight="256" />
+	<SubTexture name="Right Tired instance 10002" x="1233" y="266" width="226" height="256" frameX="-6" frameY="0" frameWidth="256" frameHeight="256" />
+	<SubTexture name="Right Tired instance 10003" x="1465" y="266" width="224" height="256" frameX="-3" frameY="0" frameWidth="256" frameHeight="256" />
+	<SubTexture name="Right Tired instance 10004" x="1465" y="266" width="224" height="256" frameX="-3" frameY="0" frameWidth="256" frameHeight="256" />
+	<SubTexture name="Right Tired instance 10005" x="1694" y="266" width="226" height="255" frameX="-1" frameY="-1" frameWidth="256" frameHeight="256" />
+	<SubTexture name="Right Tired instance 10006" x="1694" y="266" width="226" height="255" frameX="-1" frameY="-1" frameWidth="256" frameHeight="256" />
+	<SubTexture name="Right Tired instance 10007" x="1694" y="266" width="226" height="255" frameX="-1" frameY="-1" frameWidth="256" frameHeight="256" />
+	<SubTexture name="Right Tired instance 10008" x="5" y="528" width="226" height="255" frameX="-1" frameY="-1" frameWidth="256" frameHeight="256" />
+	<SubTexture name="Right Tired instance 10009" x="5" y="528" width="226" height="255" frameX="-1" frameY="-1" frameWidth="256" frameHeight="256" />
+	<SubTexture name="Right Tired instance 10010" x="5" y="528" width="226" height="255" frameX="-1" frameY="-1" frameWidth="256" frameHeight="256" />
+	<SubTexture name="Right Tired instance 10011" x="236" y="528" width="256" height="252" frameX="0" frameY="-4" frameWidth="256" frameHeight="256" />
+	<SubTexture name="Right Tired instance 10012" x="236" y="528" width="256" height="252" frameX="0" frameY="-4" frameWidth="256" frameHeight="256" />
+	<SubTexture name="Sans FNF Tired instance 10000" x="497" y="528" width="253" height="251" frameX="0" frameY="-5" frameWidth="253" frameHeight="256" />
+	<SubTexture name="Sans FNF Tired instance 10001" x="497" y="528" width="253" height="251" frameX="0" frameY="-5" frameWidth="253" frameHeight="256" />
+	<SubTexture name="Sans FNF Tired instance 10002" x="755" y="528" width="245" height="254" frameX="-3" frameY="-2" frameWidth="253" frameHeight="256" />
+	<SubTexture name="Sans FNF Tired instance 10003" x="755" y="528" width="245" height="254" frameX="-3" frameY="-2" frameWidth="253" frameHeight="256" />
+	<SubTexture name="Sans FNF Tired instance 10004" x="1006" y="528" width="244" height="254" frameX="-4" frameY="-2" frameWidth="253" frameHeight="256" />
+	<SubTexture name="Sans FNF Tired instance 10005" x="1006" y="528" width="244" height="254" frameX="-4" frameY="-2" frameWidth="253" frameHeight="256" />
+	<SubTexture name="Sans FNF Tired instance 10006" x="1255" y="528" width="244" height="255" frameX="-5" frameY="-1" frameWidth="253" frameHeight="256" />
+	<SubTexture name="Sans FNF Tired instance 10007" x="1255" y="528" width="244" height="255" frameX="-5" frameY="-1" frameWidth="253" frameHeight="256" />
+	<SubTexture name="Sans FNF Tired instance 10008" x="1504" y="528" width="243" height="255" frameX="-5" frameY="-1" frameWidth="253" frameHeight="256" />
+	<SubTexture name="Sans FNF Tired instance 10009" x="1504" y="528" width="243" height="255" frameX="-5" frameY="-1" frameWidth="253" frameHeight="256" />
+	<SubTexture name="Sans FNF Tired instance 10010" x="1753" y="528" width="243" height="256" frameX="-6" frameY="0" frameWidth="253" frameHeight="256" />
+	<SubTexture name="Sans FNF Tired instance 10011" x="1753" y="528" width="243" height="256" frameX="-6" frameY="0" frameWidth="253" frameHeight="256" />
+	<SubTexture name="Sans FNF Tired instance 10012" x="5" y="789" width="243" height="256" frameX="-6" frameY="0" frameWidth="253" frameHeight="256" />
+	<SubTexture name="Sans FNF Tired instance 10013" x="5" y="789" width="243" height="256" frameX="-6" frameY="0" frameWidth="253" frameHeight="256" />
+	<SubTexture name="Up Tired instance 10000" x="253" y="789" width="234" height="270" frameX="-10" frameY="0" frameWidth="282" frameHeight="270" />
+	<SubTexture name="Up Tired instance 10001" x="492" y="789" width="247" height="259" frameX="-4" frameY="-11" frameWidth="282" frameHeight="270" />
+	<SubTexture name="Up Tired instance 10002" x="492" y="789" width="247" height="259" frameX="-4" frameY="-11" frameWidth="282" frameHeight="270" />
+	<SubTexture name="Up Tired instance 10003" x="744" y="789" width="253" height="258" frameX="-1" frameY="-12" frameWidth="282" frameHeight="270" />
+	<SubTexture name="Up Tired instance 10004" x="744" y="789" width="253" height="258" frameX="-1" frameY="-12" frameWidth="282" frameHeight="270" />
+	<SubTexture name="Up Tired instance 10005" x="1002" y="789" width="253" height="258" frameX="0" frameY="-12" frameWidth="282" frameHeight="270" />
+	<SubTexture name="Up Tired instance 10006" x="1002" y="789" width="253" height="258" frameX="0" frameY="-12" frameWidth="282" frameHeight="270" />
+	<SubTexture name="Up Tired instance 10007" x="1261" y="789" width="256" height="246" frameX="-26" frameY="-24" frameWidth="282" frameHeight="270" />
+	<SubTexture name="Up Tired instance 10008" x="1261" y="789" width="256" height="246" frameX="-26" frameY="-24" frameWidth="282" frameHeight="270" />
+</TextureAtlas>
