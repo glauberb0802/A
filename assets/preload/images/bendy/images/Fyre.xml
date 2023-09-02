@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Fyre.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Penis instance 10000" x="10" y="10" width="1293" height="624" frameX="-1" frameY="-50" frameWidth="1297" frameHeight="685"/>
+</TextureAtlas>

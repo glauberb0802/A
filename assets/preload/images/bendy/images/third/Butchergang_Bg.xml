@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Butchergang Bg.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Symbol 1 instance 10000" x="10" y="10" width="1229" height="557" frameX="0" frameY="-28" frameWidth="1229" frameHeight="601"/>
+</TextureAtlas>

@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Trans.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="beb instance 10000" x="0" y="0" width="695" height="721" frameX="-585" frameY="0" frameWidth="1280" frameHeight="721"/>
+	<SubTexture name="beb instance 10001" x="0" y="0" width="695" height="721" frameX="-585" frameY="0" frameWidth="1280" frameHeight="721"/>
+	<SubTexture name="beb instance 10002" x="0" y="0" width="695" height="721" frameX="-585" frameY="0" frameWidth="1280" frameHeight="721"/>
+	<SubTexture name="beb instance 10003" x="0" y="0" width="695" height="721" frameX="-585" frameY="0" frameWidth="1280" frameHeight="721"/>
+	<SubTexture name="beb instance 10004" x="0" y="0" width="695" height="721" frameX="-585" frameY="0" frameWidth="1280" frameHeight="721"/>
+	<SubTexture name="beb instance 10005" x="0" y="0" width="695" height="721" frameX="-585" frameY="0" frameWidth="1280" frameHeight="721"/>
+	<SubTexture name="beb instance 10006" x="0" y="0" width="695" height="721" frameX="-585" frameY="0" frameWidth="1280" frameHeight="721"/>
+	<SubTexture name="beb instance 10007" x="0" y="0" width="695" height="721" frameX="-585" frameY="0" frameWidth="1280" frameHeight="721"/>
+	<SubTexture name="beb instance 10008" x="0" y="0" width="695" height="721" frameX="-585" frameY="0" frameWidth="1280" frameHeight="721"/>
+	<SubTexture name="beb instance 10009" x="0" y="0" width="695" height="721"/>
+	<SubTexture name="beb instance 10010" x="0" y="0" width="695" height="721"/>
+	<SubTexture name="beb instance 10011" x="0" y="0" width="695" height="721"/>
+	<SubTexture name="beb instance 10012" x="0" y="0" width="695" height="721"/>
+	
+	
+	
+	<SubTexture name="beb instance 10013" x="0" y="721" width="1280" height="721"/>
+	<SubTexture name="beb instance 10014" x="0" y="721" width="1280" height="721"/>
+	<SubTexture name="beb instance 10015" x="0" y="721" width="1280" height="721"/>
+	<SubTexture name="beb instance 10016" x="0" y="721" width="1280" height="721"/>
+	<SubTexture name="beb instance 10017" x="0" y="721" width="1280" height="721"/>
+	<SubTexture name="beb instance 10018" x="0" y="721" width="1280" height="721"/>
+	<SubTexture name="beb instance 10019" x="0" y="721" width="1280" height="721"/>
+	<SubTexture name="beb instance 10020" x="0" y="721" width="1280" height="721"/>
+	<SubTexture name="beb instance 10021" x="0" y="721" width="1280" height="721"/>
+	<SubTexture name="beb instance 10022" x="0" y="721" width="1280" height="721"/>
+	<SubTexture name="beb instance 10023" x="0" y="721" width="1280" height="721"/>
+	<SubTexture name="beb instance 10024" x="0" y="721" width="1280" height="721"/>
+	
+	
+	
+	
+	
+	<SubTexture name="beb instance 10025" x="695" y="0" width="1280" height="721"/>
+	<SubTexture name="beb instance 10026" x="695" y="0" width="1280" height="721"/>
+	<SubTexture name="beb instance 10027" x="695" y="0" width="1280" height="721"/>
+	<SubTexture name="beb instance 10028" x="695" y="0" width="1280" height="721"/>
+	<SubTexture name="beb instance 10029" x="695" y="0" width="1280" height="721"/>
+	<SubTexture name="beb instance 10030" x="695" y="0" width="1280" height="721"/>
+	<SubTexture name="beb instance 10031" x="695" y="0" width="1163" height="721" frameX="0" frameY="0" frameWidth="1280" frameHeight="721"/>
+	<SubTexture name="beb instance 10032" x="695" y="0" width="1020" height="721" frameX="0" frameY="0" frameWidth="1280" frameHeight="721"/>
+	<SubTexture name="beb instance 10033" x="695" y="0" width="877" height="721" frameX="0" frameY="0" frameWidth="1280" frameHeight="721"/>
+	<SubTexture name="beb instance 10034" x="695" y="0" width="734" height="721" frameX="0" frameY="0" frameWidth="1280" frameHeight="721"/>
+	<SubTexture name="beb instance 10035" x="695" y="0" width="591" height="721" frameX="0" frameY="0" frameWidth="1280" frameHeight="721"/>
+	<SubTexture name="beb instance 10036" x="695" y="0" width="448" height="721" frameX="0" frameY="0" frameWidth="1280" frameHeight="721"/>
+	<SubTexture name="beb instance 10037" x="695" y="0" width="305" height="721" frameX="0" frameY="0" frameWidth="1280" frameHeight="721"/>
+	
+	
+	<SubTexture name="beb instance 10038" x="1975" y="0" width="162" height="721" frameX="0" frameY="0" frameWidth="1280" frameHeight="721"/>
+	
+	
+	<SubTexture name="beb instance 10039" x="1556" y="2934" width="0" height="0" frameX="1" frameY="0" frameWidth="1280" frameHeight="721"/>
+</TextureAtlas>

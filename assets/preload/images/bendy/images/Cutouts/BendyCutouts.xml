@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BendyCutouts.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->--Mucho trabajo
+	<SubTexture name="01 instance 10000" x="10" y="10" width="296" height="9" frameX="-8" frameY="-257" frameWidth="304" frameHeight="266"/>
+</TextureAtlas>
