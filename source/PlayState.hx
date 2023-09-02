@@ -1146,7 +1146,7 @@ var creditTxt = new FlxText(876, 648, 348);
      creditTxt.text = "PORT BY\nglauber01";
     creditTxt.setFormat(Paths.font("vcr.ttf"), 30, FlxColor.WHITE, RIGHT, FlxTextBorderStyle.OUTLINE,FlxColor.BLACK);
     creditTxt.scrollFactor.set();
-    add(creditTxt);;
+    add(creditTxt);
 		if(ClientPrefs.downScroll) {
 			botplayTxt.y = timeBarBG.y - 78;
 		}
