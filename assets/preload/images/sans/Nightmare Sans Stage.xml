@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Nightmare Sans Stage.png">
+	<!-- Optimized by NT846 -->
+	<SubTexture name="Normal instance 10000" x="1932" y="2176" width="1932" height="1088"/>
+	<SubTexture name="Normal instance 10001" x="1932" y="2176" width="1932" height="1088"/>
+	<SubTexture name="Normal instance 10002" x="1932" y="2176" width="1932" height="1088"/>
+	<SubTexture name="Normal instance 10003" x="1932" y="2176" width="1932" height="1088"/>
+	<SubTexture name="Normal instance 10004" x="0" y="2176" width="1932" height="1088"/>
+	<SubTexture name="Normal instance 10005" x="0" y="2176" width="1932" height="1088"/>
+	<SubTexture name="Normal instance 10006" x="0" y="1088" width="1932" height="1088"/>
+	<SubTexture name="Normal instance 10007" x="0" y="1088" width="1932" height="1088"/>
+	<SubTexture name="Normal instance 10008" x="1932" y="0" width="1932" height="1088"/>
+	<SubTexture name="Normal instance 10009" x="1932" y="0" width="1932" height="1088"/>
+	<SubTexture name="Normal instance 10010" x="0" y="0" width="1932" height="1088"/>
+	<SubTexture name="Normal instance 10011" x="0" y="0" width="1932" height="1088"/>
+	<SubTexture name="dd instance 10000" x="1932" y="1088" width="1932" height="1088"/>
+	<SubTexture name="sdfs instance 10000" x="1932" y="1088" width="1932" height="1088"/>
+</TextureAtlas>
