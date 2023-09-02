@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-50
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BF SCHOOL NOTE DOWN0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-41,
+				30
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BF SCHOOL NOTE UP0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BF school idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-44,
+				-6
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BF SCHOOL NOTE RIGHT0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-20,
+				-20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "BF SCHOOL NOTE DOWN MISS"
+		},
+		{
+			"offsets": [
+				7,
+				-7
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "BF SCHOOL NOTE LEFT0"
+		},
+		{
+			"offsets": [
+				9,
+				20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "BF SCHOOL NOTE LEFT MISS"
+		},
+		{
+			"offsets": [
+				-30,
+				25
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "BF SCHOOL NOTE UP MISS"
+		},
+		{
+			"offsets": [
+				-38,
+				20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "BF SCHOOL NOTE RIGHT MISS"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bfSchoolUniform",
+	"position": [
+		5,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		189
+	],
+	"camera_position": [
+		-30,
+		35
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

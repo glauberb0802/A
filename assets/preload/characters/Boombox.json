@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-190,
+				-100
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "boombox",
+			"indices": [],
+			"name": "boombox"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-190,
+				-100
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "boombox",
+			"indices": [
+				30,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-190,
+				-100
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "boombox",
+			"indices": [
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/boombox",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		40,
+		-50
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

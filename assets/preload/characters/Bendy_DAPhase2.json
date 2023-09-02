@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-90,
+				-41
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "ugh lowblow",
+			"indices": [],
+			"name": "ugh lowblow instance 1"
+		},
+		{
+			"offsets": [
+				-73,
+				-115
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Transformation",
+			"indices": [],
+			"name": "Transformation instance 1"
+		},
+		{
+			"offsets": [
+				123,
+				-1
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Oblivion Bendy instance 1"
+		},
+		{
+			"offsets": [
+				152,
+				-52
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left Oblivion instance 1"
+		},
+		{
+			"offsets": [
+				77,
+				-49
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down Oblivion instance 1"
+		},
+		{
+			"offsets": [
+				60,
+				-24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right Oblivion instance 1"
+		},
+		{
+			"offsets": [
+				-32,
+				44
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up Oblivion instance 1"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bendy/BendyDAgames",
+	"position": [
+		40,
+		150
+	],
+	"healthicon": "bendyDA",
+	"flip_x": false,
+	"healthbar_colors": [
+		35,
+		41,
+		47
+	],
+	"camera_position": [
+		0,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3
+}

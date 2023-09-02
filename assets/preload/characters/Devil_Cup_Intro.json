@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-20,
+				26
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Intro"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cuphead/Devil_intro",
+	"position": [
+		-320,
+		-650
+	],
+	"healthicon": "devil",
+	"flip_x": false,
+	"healthbar_colors": [
+		35,
+		50,
+		78
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.5
+}

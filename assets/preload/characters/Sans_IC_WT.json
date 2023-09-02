@@ -1,0 +1,116 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				11,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Sans FNF Tired instance 1"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				-23
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down Tired instance 1",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				74,
+				-8
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left Tired instance 1",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				-10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right Tired instance 1",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				18
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up Tired instance 1",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sans/SansWF",
+	"position": [
+		150,
+		350
+	],
+	"healthicon": "sans",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-250,
+		-150
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 2
+}

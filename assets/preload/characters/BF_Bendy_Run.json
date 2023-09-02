@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				2,
+				-7
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Run_cycle instance 1"
+		},
+		{
+			"offsets": [
+				1,
+				-7
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "Run_When Bendy is Close instance 1"
+		},
+		{
+			"offsets": [
+				8,
+				-34
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Left Miss instance 1"
+		},
+		{
+			"offsets": [
+				16,
+				-34
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Down Miss instance 1"
+		},
+		{
+			"offsets": [
+				17,
+				-35
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Right Miss instance 1"
+		},
+		{
+			"offsets": [
+				8,
+				-26
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Up Miss instance 1"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				13,
+				-7
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Leftt instance 1",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": true,
+			"name": "Up instance 1"
+		},
+		{
+			"offsets": [
+				2,
+				-8
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": true,
+			"name": "Rightt instance 1"
+		},
+		{
+			"offsets": [
+				1,
+				-8
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": true,
+			"name": "Down instance 1"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bendy/NM_run_BF",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		230,
+		-40
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Sans instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-17,
+				128
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				-51
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-48,
+				-17
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				31,
+				77
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "AAAAA instance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-18,
+				13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "Ded instance"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				41,
+				14
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down instance",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				90,
+				-107
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "Table sfx instance",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sans/saness",
+	"position": [
+		-220,
+		350
+	],
+	"healthicon": "saness",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-150,
+		-200
+	],
+	"sing_duration": 4,
+	"scale": 2.6
+}

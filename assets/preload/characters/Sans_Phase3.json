@@ -1,0 +1,132 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				30,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Sans FNF instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				19,
+				-15
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down instance 1",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				129,
+				22
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "SansDodge instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				51,
+				-2
+			],
+			"anim": "snap",
+			"fps": 24,
+			"name": "Snap to UT mode instance 1",
+			"indices": []
+		},
+		{
+			"offsets": [
+				79,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"name": "Left instance 1"
+		},
+		{
+			"offsets": [
+				12,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"name": "Right instance 1"
+		},
+		{
+			"offsets": [
+				14,
+				27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"name": "Up instance 1"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sans/Sans_Phase_3",
+	"position": [
+		70,
+		350
+	],
+	"healthicon": "sans_phase3",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-200,
+		-150
+	],
+	"sing_duration": 4,
+	"scale": 2
+}

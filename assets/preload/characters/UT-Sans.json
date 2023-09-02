@@ -1,0 +1,121 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-378,
+				134
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "EReree ee instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				45,
+				241
+			],
+			"anim": "Sike",
+			"fps": 24,
+			"name": "Sike instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-328,
+				136
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "LeftUT instance 1",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-378,
+				135
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DownUT instance 1",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-380,
+				163
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "UpUT instance 1",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-382,
+				134
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "RightUT instance 1",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sans/UT Sans",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "sans_ut",
+	"flip_x": false,
+	"healthbar_colors": [
+		47,
+		47,
+		47
+	],
+	"camera_position": [
+		100,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

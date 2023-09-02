@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-43,
+				-4
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "B-Right instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-161,
+				34
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Bendy Idle instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				312,
+				45
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				63,
+				236
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-44,
+				-36
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "bendydown instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-43,
+				37
+			],
+			"anim": "Scream",
+			"fps": 24,
+			"name": "Scream instance 1",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bendy/OptBendyByVGPH",
+	"position": [
+		150,
+		150
+	],
+	"healthicon": "bendy",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-250,
+		-450
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 4
+}

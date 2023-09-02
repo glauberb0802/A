@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				150,
+				200
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Nightmare SANS Idle instance 1"
+		},
+		{
+			"offsets": [
+				285,
+				116
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Leftt instance 1"
+		},
+		{
+			"offsets": [
+				73,
+				256
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "UPP instance 1"
+		},
+		{
+			"offsets": [
+				181,
+				107
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Rightt instance 1"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				151,
+				186
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DOWNN instance 1",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				285,
+				116
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "Leftt instance 1",
+			"indices": [
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				181,
+				107
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "Rightt instance 1",
+			"indices": [
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				151,
+				186
+			],
+			"anim": "singDOWN-loop",
+			"fps": 24,
+			"name": "DOWNN instance 1",
+			"indices": [
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sans/DeathSans002",
+	"position": [
+		195,
+		220
+	],
+	"healthicon": "nightmare-sans",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-200,
+		-200
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 2
+}

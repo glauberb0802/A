@@ -1,0 +1,197 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				16,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Sans FNF Tired instance 1",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				-1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right Tired instance 1",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				19,
+				-15
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down Tired instance 1",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			]
+		},
+		{
+			"offsets": [
+				79,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"name": "Left Tired instance 1"
+		},
+		{
+			"offsets": [
+				66,
+				29
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"name": "Up Tired instance 1"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				0
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "Right Tired instance 1",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				19,
+				-14
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "Down Tired instance 1",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				66,
+				30
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "Up Tired instance 1",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				79,
+				2
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "Left Tired instance 1",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			]
+		},
+		{
+			"offsets": [
+				129,
+				22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dodge",
+			"indices": [],
+			"name": "SansDodgeTired"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sans/Sans_Phase_3",
+	"position": [
+		70,
+		350
+	],
+	"healthicon": "sans_phase3",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-200,
+		-150
+	],
+	"sing_duration": 4,
+	"scale": 2
+}

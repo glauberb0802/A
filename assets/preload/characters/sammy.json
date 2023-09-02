@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Sammy"
+		},
+		{
+			"offsets": [
+				477,
+				-35
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				123,
+				-142
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				228,
+				46
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				117,
+				-116
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				751,
+				141
+			],
+			"anim": "intro",
+			"fps": 24,
+			"name": "Intro",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				91,
+				-94
+			],
+			"anim": "end",
+			"fps": 24,
+			"name": "End Pa",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				160,
+				29
+			],
+			"anim": "end2",
+			"fps": 24,
+			"name": "End02",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SammyRemastered",
+	"position": [
+		0,
+		60
+	],
+	"healthicon": "sammy",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-1000,
+		-220
+	],
+	"sing_duration": 6.1,
+	"scale": 3
+}

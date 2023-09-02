@@ -1,1 +1,1 @@
-put your .json of your sprites
+Put your custom character .json files here!
