@@ -1,0 +1,199 @@
+{
+	"song": {
+		"speed": 2.6,
+		"stage": "Papyrus Stage",
+		"player1": "bf-christmas-variant",
+		"player2": "Sans-2-icons",
+		"player3": null,
+		"events": [
+			[
+				24000,
+				[
+					[
+						"Play Animation",
+						"sleep",
+						"Dad"
+					]
+				]
+			],
+			[
+				25200,
+				[
+					[
+						"Play Animation",
+						"Oh Sans you",
+						"GF"
+					]
+				]
+			],
+			[
+				25300,
+				[
+					[
+						"Play Animation",
+						"sleep-loop",
+						"Dad"
+					]
+				]
+			],
+			[
+				25600,
+				[
+					[
+						"Play Animation",
+						"more Mad",
+						"GF"
+					]
+				]
+			],
+			[
+				30000,
+				[
+					[
+						"Play Animation",
+						"wake up",
+						"Dad"
+					]
+				]
+			],
+			[
+				35100,
+				[
+					[
+						"Play Animation",
+						"idle-alt-2",
+						"GF"
+					]
+				]
+			],
+			[
+				41600,
+				[
+					[
+						"Play Animation",
+						"idle",
+						"GF"
+					]
+				]
+			],
+			[
+				68600,
+				[
+					[
+						"Alt Idle Animation",
+						"Dad",
+						"-alt"
+					],
+					[
+						"Play Animation",
+						"idle-alt start",
+						"Dad"
+					]
+				]
+			],
+			[
+				70300,
+				[
+					[
+						"Alt Idle Animation",
+						"GF",
+						"-alt"
+					]
+				]
+			],
+			[
+				76900,
+				[
+					[
+						"Play Animation",
+						"Mad",
+						"GF"
+					]
+				]
+			],
+			[
+				81200,
+				[
+					[
+						"Play Animation",
+						"no bone",
+						"Dad"
+					],
+					[
+						"Alt Idle Animation",
+						"Dad",
+						""
+					],
+					[
+						"Play Animation",
+						"idle-alt-2",
+						"GF"
+					],
+					[
+						"Alt Idle Animation",
+						"GF",
+						""
+					]
+				]
+			],
+			[
+				82400,
+				[
+					[
+						"Play Animation",
+						"look up",
+						"Dad"
+					]
+				]
+			],
+			[
+				82800,
+				[
+					[
+						"Play Animation",
+						"Sans lessgo",
+						"GF"
+					]
+				]
+			],
+			[
+				123200,
+				[
+					[
+						"Play Animation",
+						"sleep",
+						"Dad"
+					]
+				]
+			],
+			[
+				124500,
+				[
+					[
+						"Play Animation",
+						"sleep-loop",
+						"Dad"
+					]
+				]
+			],
+			[
+				124600,
+				[
+					[
+						"Alt Idle Animation",
+						"GF",
+						"-alt"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "Papyrus",
+		"bpm": 150,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Bonedoggle"
+	}
+}

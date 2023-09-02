@@ -1,0 +1,49 @@
+{
+	"song": {
+		"speed": 3.1,
+		"stage": "BendyDA",
+		"player1": "BoyFriend_DA",
+		"player2": "Bendy_DA",
+		"player3": null,
+		"events": [
+			[
+				32538.4615384615,
+				[
+					[
+						"Play Animation",
+						"You've got this",
+						"dad"
+					]
+				]
+			],
+			[
+				77538.4615384615,
+				[
+					[
+						"Play Animation",
+						"Transformation",
+						"dad"
+					]
+				]
+			],
+			[
+				143838.461538462,
+				[
+					[
+						"Play Animation",
+						"ugh lowblow",
+						"dad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 130,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Freaky-Machine"
+	}
+}

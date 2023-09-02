@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "BendyStage",
+		"player1": "BF_Bendy_IC",
+		"player2": "Bendy_IC",
+		"player3": null,
+		"events": [
+			[
+				8615.38461538462,
+				[
+					[
+						"Play Animation",
+						"Scream",
+						"dad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 195,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Last-Reel"
+	}
+}

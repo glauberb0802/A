@@ -1,0 +1,104 @@
+{
+	"song": {
+		"speed": 2.6,
+		"stage": "SansStage",
+		"player1": "BF_Sans_IC",
+		"player2": "Sans_Phase2_IC",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Set Cam Zoom",
+						"1.2",
+						"12"
+					]
+				]
+			],
+			[
+				10971.4285714286,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.01"
+					],
+					[
+						"Set Cam Zoom",
+						"0.9",
+						"0.3"
+					]
+				]
+			],
+			[
+				65828.5714285714,
+				[
+					[
+						"Change Character",
+						"0",
+						"BF_Sans_WT"
+					],
+					[
+						"Change Character",
+						"1",
+						"Sans_IC_WT"
+					]
+				]
+			],
+			[
+				109457.142857143,
+				[
+					[
+						"Change Character",
+						"bf",
+						"BF_Sans_IC"
+					],
+					[
+						"Change Character",
+						"dad",
+						"Sans_Phase2_IC"
+					]
+				]
+			],
+			[
+				109542.857142857,
+				[
+					[
+						"Alt Idle Animation",
+						"Dad",
+						"-alt"
+					]
+				]
+			],
+			[
+				175542.857142857,
+				[
+					[
+						"Change Character",
+						"bf",
+						"BF_Sans_IC"
+					]
+				]
+			],
+			[
+				175542.857142857,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Sans_Phase2_IC"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 175,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Final-Stretch"
+	}
+}

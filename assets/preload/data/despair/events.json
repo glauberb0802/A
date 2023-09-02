@@ -1,0 +1,59 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "NM_Bendy",
+		"player1": "BF_Bendy_NM_Bendy",
+		"player2": "Nightmare-Bendy",
+		"player3": null,
+		"events": [
+			[
+				3840,
+				[
+					[
+						"Set Cam Zoom",
+						"0.6",
+						"7"
+					]
+				]
+			],
+			[
+				103680,
+				[
+					[
+						"Set Cam Zoom",
+						"0.5",
+						"7"
+					]
+				]
+			],
+			[
+				148800,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						"3"
+					]
+				]
+			],
+			[
+				165120,
+				[
+					[
+						"Set Cam Zoom",
+						"0.5",
+						"5"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 187.5,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Despair"
+	}
+}

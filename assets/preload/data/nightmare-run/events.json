@@ -1,0 +1,109 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "BendyRun",
+		"player1": "BF_Bendy_Run",
+		"player2": "Bendy_Run",
+		"player3": null,
+		"events": [
+			[
+				37454.9819927971,
+				[
+					[
+						"Change Character",
+						"bf",
+						"BF_Bendy_Run-Dark"
+					],
+					[
+						"Change Character",
+						"dad",
+						"Bendy_Run-Dark"
+					]
+				]
+			],
+			[
+				48979.5918367347,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Bendy_Run"
+					],
+					[
+						"Change Character",
+						"bf",
+						"BF_Bendy_Run"
+					]
+				]
+			],
+			[
+				95080.0312124849,
+				[
+					[
+						"Change Character",
+						"bf",
+						"BF_Bendy_Run-Dark"
+					],
+					[
+						"Change Character",
+						"dad",
+						"Bendy_Run-Dark"
+					]
+				]
+			],
+			[
+				118130.25090036,
+				[
+					[
+						"Change Character",
+						"bf",
+						"BF_Bendy_Run"
+					],
+					[
+						"Change Character",
+						"dad",
+						"Bendy_Run"
+					]
+				]
+			],
+			[
+				151260.504201681,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Bendy_Run-Dark"
+					],
+					[
+						"Change Character",
+						"bf",
+						"BF_Bendy_Run-Dark"
+					]
+				]
+			],
+			[
+				174399.759903962,
+				[
+					[
+						"Change Character",
+						"bf",
+						"BF_Bendy_Run"
+					],
+					[
+						"Change Character",
+						"dad",
+						"Bendy_Run"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 166.6,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Nightmare-Run"
+	}
+}
