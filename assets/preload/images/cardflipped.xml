@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:2a02625931b86f8f645194510b982997:1784fcd932a7e4b6d174297f899c5703:4511161aba45cf55865bb755ac06da0b$ -->
+<TextureAtlas imagePath="cardflipped.png" width="485" height="485">
+    <SubTexture name="Card flipped instance 0000" x="0" y="0" width="97" height="147"/>
+    <SubTexture name="Card flipped instance 0001" x="97" y="0" width="97" height="147"/>
+    <SubTexture name="Card flipped instance 0002" x="194" y="0" width="97" height="147"/>
+    <SubTexture name="Card flipped instance 0003" x="291" y="0" width="97" height="147"/>
+    <SubTexture name="Card flipped instance 0004" x="388" y="0" width="97" height="147"/>
+    <SubTexture name="Card flipped instance 0005" x="0" y="147" width="97" height="147"/>
+    <SubTexture name="Card flipped instance 0006" x="97" y="147" width="97" height="147"/>
+    <SubTexture name="Card flipped instance 0007" x="194" y="147" width="97" height="147"/>
+    <SubTexture name="Card flipped instance 0008" x="291" y="147" width="97" height="147"/>
+    <SubTexture name="Card flipped instance 0009" x="388" y="147" width="97" height="147"/>
+    <SubTexture name="Card flipped instance 0010" x="0" y="294" width="97" height="147"/>
+    <SubTexture name="Card flipped instance 0011" x="97" y="294" width="97" height="147"/>
+    <SubTexture name="Card flipped instance 0012" x="194" y="294" width="97" height="147"/>
+    <SubTexture name="Card flipped instance 0013" x="291" y="294" width="97" height="147"/>
+</TextureAtlas>

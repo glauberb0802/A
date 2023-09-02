@@ -1,0 +1,11 @@
+{
+	"idle_anim": "Cr",
+	"image": "Bendy_Gaming",
+	"position": [
+		469,
+		222
+	],
+	"flipX": false,
+	"scale": 0.8,
+	"confirm_anim": "M Dad Idle"
+}

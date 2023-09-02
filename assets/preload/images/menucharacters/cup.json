@@ -1,0 +1,11 @@
+{
+	"idle_anim": "C",
+	"image": "Cuphead_Gaming",
+	"position": [
+		96,
+		-62
+	],
+	"flipX": false,
+	"scale": 0.6,
+	"confirm_anim": "M Dad Idle"
+}

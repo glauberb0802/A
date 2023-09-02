@@ -1,0 +1,11 @@
+{
+	"idle_anim": "fun3",
+	"image": "fun3",
+	"position": [
+		460,
+		55
+	],
+	"flipX": false,
+	"scale": 1.05,
+	"confirm_anim": "M Dad Idle"
+}
